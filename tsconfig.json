@@ -2,7 +2,7 @@
 	"compilerOptions": {
 		"module": "commonjs",
 		"outDir": "./dist-node/",
-		"target":"ES5",
+		"target":"ES3",
 		"declaration":true,
 		"strictNullChecks":true,
 		"alwaysStrict":true,
