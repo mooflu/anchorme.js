@@ -1,4 +1,4 @@
-# Anchorme.js
+# Anchorme.js (Note: removed ICANN-era tlds in this fork)
 ![npm](https://img.shields.io/npm/dm/anchorme.svg)
 ![npm](https://img.shields.io/npm/v/anchorme.svg)
 ![GitHub release](https://img.shields.io/github/release/alexcorvi/anchorme.js.svg)
